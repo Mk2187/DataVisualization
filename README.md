@@ -6,7 +6,7 @@ This tutorial offers a brief overview of the matplotlib.pyplot module, which pro
 Matplotlib can output graphs using various backend graphics libraries, such as Tk, wxPython, etc. When running python using the command line, the graphs are typically shown in a separate window. In a Jupyter/Colab notebook, we can simply output the graphs within the notebook itself by running the %matplotlib inline magic command.
 
 Ref-1-----use this as reference--- [matplotlib](https://matplotlib.org/stable/users/explain/quick_start.html)
-Ref-2----https://llego.dev/posts/matplotlib-financial-data-visualization/#matplotlib-architecture
+Ref-2----[mplfinance](https://llego.dev/posts/matplotlib-financial-data-visualization/#matplotlib-architecture)
 
 ## Installation
 
