@@ -12,4 +12,7 @@ Ref-2----https://llego.dev/posts/matplotlib-financial-data-visualization/#matplo
 pip install --upgrade mplfinance
 
 
-"""pip install --upgrade mplfinance"""
+"""
+pip install --upgrade mplfinance
+pip install pandas
+"""
