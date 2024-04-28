@@ -1,4 +1,4 @@
-# DataVisualization
+# DataVisualization by mplfinance
 In depth data visualization using python
 Matplotlib for Financial Data Visualization
 Matplotlib is a plotting library.
@@ -7,3 +7,5 @@ Matplotlib can output graphs using various backend graphics libraries, such as T
 
 Ref-1-----use this as reference---https://matplotlib.org/stable/users/explain/quick_start.html#
 Ref-2----https://llego.dev/posts/matplotlib-financial-data-visualization/#matplotlib-architecture
+
+##Installation
