@@ -9,10 +9,10 @@ Ref-1-----use this as reference---https://matplotlib.org/stable/users/explain/qu
 Ref-2----https://llego.dev/posts/matplotlib-financial-data-visualization/#matplotlib-architecture
 
 ## Installation
-pip install --upgrade mplfinance
 
 
-"""
+
+'
 pip install --upgrade mplfinance
 pip install pandas
-"""
+'
