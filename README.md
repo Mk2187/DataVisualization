@@ -17,20 +17,20 @@ pip install --upgrade mplfinance
 pip install pandas
 ```
 
-<details>
+-<details>
 <summary>##Table of Contents and Tutorial.</summary> 
 - This is the detailed discription of Table of Contents & Tutorial.
 
   </details>
-### Table of content is linked to this.
-### Basic Usage
-### Customizing the Appearance of Plots
-### Adding Your Own Technical Studies to Plots
-### Subplots: Multiple Plots on a Single Figure
-### Fill Between: Filling Plots with Color
-### Price-Movement Plots (Renko, P&F, etc)
-### Trends, Support, Resistance, and Trading Lines
-### Coloring Individual Candlesticks (New: December 2021)
-### Saving the Plot to a File
-### Animation/Updating your plots in realtime
+-### Table of content is linked to this.
+-### Basic Usage
+-### Customizing the Appearance of Plots
+-### Adding Your Own Technical Studies to Plots
+-### Subplots: Multiple Plots on a Single Figure
+-### Fill Between: Filling Plots with Color
+-### Price-Movement Plots (Renko, P&F, etc)
+-### Trends, Support, Resistance, and Trading Lines
+-### Coloring Individual Candlesticks (New: December 2021)
+-### Saving the Plot to a File
+-### Animation/Updating your plots in realtime
 
