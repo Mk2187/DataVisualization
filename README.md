@@ -17,8 +17,8 @@ pip install --upgrade mplfinance
 pip install pandas
 ```
 
-# **Table of Contents and Tutorial[^1]. **
-[^1] : Table of content is linked to this.
+# **Table of Contents and Tutorial. **
+### Table of content is linked to this.
 ### Basic Usage
 ### Customizing the Appearance of Plots
 ### Adding Your Own Technical Studies to Plots
