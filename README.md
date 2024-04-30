@@ -12,25 +12,47 @@ Ref-2----[mplfinance](https://llego.dev/posts/matplotlib-financial-data-visualiz
 
 
 
+
 ```
 pip install --upgrade mplfinance
 pip install pandas
 ```
 
--<details>
-<summary> ##Table of Contents and Tutorial. </summary> 
-- This is the detailed discription of Table of Contents & Tutorial.
+![png](/Users/mukesh/Desktop/Git Test/DataVisualization/Screenshot 2024-04-30 at 3.50.15 AM.png)
 
-  </details>
--### Table of content is linked to this.
--### Basic Usage
--### Customizing the Appearance of Plots
--### Adding Your Own Technical Studies to Plots
--### Subplots: Multiple Plots on a Single Figure
--### Fill Between: Filling Plots with Color
--### Price-Movement Plots (Renko, P&F, etc)
--### Trends, Support, Resistance, and Trading Lines
--### Coloring Individual Candlesticks (New: December 2021)
--### Saving the Plot to a File
--### Animation/Updating your plots in realtime
+
+<details>
+<summary>Table of Contents and Tutorial. </summary> 
+
+- This is the detailed discription of Table of Contents & 
+Tutorial.
+- This is second line in table of contents.
+
+
+</details>
+
+
+
+<details>
+<summary>Table of content is linked to this.</summary></details>
+
+<details><
+summary>Basic Usage</summary>
+</details>
+
+<details>
+<summary>Customizing the Appearance of Plots</summary>
+</details>
+
+<details>
+<summary>Adding Your Own Technical Studies to Plots</summary>
+</details>
+
+<details><summary>Subplots: Multiple Plots on a Single Figure</summary></details>
+<details><summary>Fill Between: Filling Plots with Color</summary></details>
+<details><summary>Price-Movement Plots (Renko, P&F, etc)</summary></details>
+<details><summary>Trends, Support, Resistance, and Trading Lines</summary></details>
+<details><summary>Coloring Individual Candlesticks (New: December 2021)</summary></details>
+<details><summary>Saving the Plot to a File</summary></details>
+<details><summary>Animation/Updating your plots in realtime</summary></details>
 
